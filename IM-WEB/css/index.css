@@ -1,0 +1,117 @@
+html	{
+	position: relative;
+
+}
+
+body {
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+
+
+.pp {border: 3px solid pink;}
+hr {
+	width: 250px;
+	border-top:3px solid pink;
+	
+}
+
+
+footer {position: absolute;
+	width: auto;
+	background-color: lightblue;
+	height: 80px;
+	bottom: 0;
+	padding-top: 20px;
+}
+
+footer p{
+	color: #aaa;
+	font-size: 1em;
+     left:0;}
+
+
+
+
+
+.jumbotron  {
+	background: url(../img/eta.jpg);
+	color: black;
+	height: 580px;
+	
+
+}
+
+
+body{
+	background: url(../img/jkk.jpg);
+}
+.navbar {
+	
+	color:white;
+	background: url(../img/eta.jpg)
+
+}
+
+
+}
+
+
+
+	section{
+		min-height: 400px;
+	}
+
+	.portfolio {
+	min-height: 400px;}
+.thumbnail img{
+	position: relative;
+	margin: 10px;
+	-moz-transition:all 1s ease;
+	-webkit-transition:all 1s ease;
+	transition: all 1s ease; 
+
+}
+
+
+
+.thumbnail:hover {
+	
+	z-index: 9999;
+	transform: scale(2);
+	-moz-transform: scale(1.3);
+	-webkit-transform: scale(1.3);
+
+
+}
+
+     	
+     }
+
+.skil .text-center {
+	color: white;
+}
+
+
+.ll {
+	margin-bottom: 250px;
+}
+
+
+footer {position: absolute;
+	width: 100%;
+	background-color: salmon;
+	height: 100px;
+	bottom: 0;
+	padding-top: 30px;
+	left: 0;
+}
+
+footer p{
+	color: lightblue;
+	font-size: 1em;
+}
+
+.about {
+	padding-bottom: : 500px;
+}

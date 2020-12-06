@@ -1,0 +1,12 @@
+rsz_dot.png = https://jordanoe.deviantart.com/art/Dota-2-Icon-Elementary-388742301
+bg.png = https://stitchfluffy.deviantart.com/art/Stitch-Minimalist-Wallpaper-367000644
+rsz_dins.png = https://1stopesports.com/games/paladins-champions-of-the-realm-r95/
+eta.jpg = http://idolza.com/a/l/h/home-design-pastel-colors-background-tumblr-tropical-compact-the-modern-large-brilliant-intended_pastel-design_interior-design-pictures-architecture-home-house-decoration-tips-homes-desi_1080x675.jpg
+rsz_jj.jpg = https://1.bp.blogspot.com/-zc4PJO0Jgfw/VNBE5Nn35dI/AAAAAAAACRc/SE65zW7UdOM/s1600/Renang-Gaya-Kupu-kupu-dan-penjelasannya.jpg
+rsz_kk.jpg = https://i.ytimg.com/vi/SmPYm_vxjM4/maxresdefault.jpg
+jkk_jpeg = https://www.shopsatnorthland.com/2017/06/07/jojos-new-bows-now-available-at-claires/
+hh.jpg = https://en.wikipedia.org/wiki/File:Counter-Strike_Logo.png
+
+
+
+web hosting = https://portfoliopev.000webhostapp.com/
